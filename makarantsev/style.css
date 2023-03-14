@@ -1,0 +1,113 @@
+body {
+  background-image: url(./images/bgc.png);
+  display: flex;
+}
+
+.text {
+  width: 730px;
+  height: 49px;
+  display: flex;
+  margin-top: 600px;
+  margin-left: 570px;
+  font-family: Noto Serif;
+  font-size: 36px;
+  justify-content: center;
+  color: white;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 15px 45px;
+  gap: 10px;
+  box-sizing: border-box;
+  color: white;
+  width: 261px;
+  height: 51px;
+  margin-left: 810px;
+  margin-top: 50px;
+  border: 2px solid white;
+  font-size: 18px;
+  font-family: Gilroy;
+}
+.line {
+  width: 1920px;
+  height: 0px;
+  border: 0.5px solid white;
+  display: flex;
+  margin-top: 80px;
+}
+.iconimg1 {
+  width: 160px;
+  height: 60px;
+  display: flex;
+  gap: 15px;
+}
+.iconline1 {
+  height: 60px;
+  border: 1px solid white;
+  left: 15px;
+  display: flex;
+}
+.icons {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 30px;
+}
+.iconimg2 {
+  width: 160px;
+  height: 60px;
+  display: flex;
+  gap: 15px;
+}
+.iconline2 {
+  border: 1px solid white;
+  height: 60px;
+  left: 15px;
+  display: flex;
+}
+.iconimg3 {
+  width: 160px;
+  height: 60px;
+  display: flex;
+  gap: 15px;
+}
+.iconline3 {
+  height: 60px;
+  border: 1px solid white;
+  display: flex;
+}
+.iconimg4 {
+  width: 160px;
+  height: 60px;
+  display: flex;
+  gap: 15px;
+}
+.iconline4 {
+  height: 60px;
+  border: 1px solid white;
+  display: flex;
+}
+.iconimg5 {
+  width: 160px;
+  height: 60px;
+  display: flex;
+  gap: 15px;
+}
+.iconline5 {
+  height: 60px;
+  border: 1px solid white;
+  display: flex;
+}
+.iconimg6 {
+  width: 160px;
+  height: 60px;
+  display: flex;
+  gap: 15px;
+}
+.iconline6 {
+  height: 60px;
+  border: 1px solid white;
+  display: flex;
+}

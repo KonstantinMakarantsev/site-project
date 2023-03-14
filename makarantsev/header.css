@@ -1,0 +1,23 @@
+a {
+  color: white;
+}
+.img1 {
+  width: 18px;
+  height: 18px;
+}
+.img2 {
+  width: 16px;
+  height: 16px;
+}
+.img3 {
+  width: 16.29px;
+  height: 14.57px;
+}
+ul {
+  font-size: 14px;
+  font-family: Gilroy;
+  gap: 10px;
+}
+.header {
+  position: relative;
+}
