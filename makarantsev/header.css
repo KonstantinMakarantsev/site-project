@@ -21,7 +21,7 @@ ul {
 .header__left {
   display: flex;
   gap: 40px;
-  margin-left: 405px;
+  margin-left: 300px;
   margin-top: 43px;
 }
 .header__logo {
