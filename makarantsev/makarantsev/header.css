@@ -1,0 +1,48 @@
+a {
+  color: white;
+}
+.img1 {
+  width: 18px;
+  height: 18px;
+}
+.img2 {
+  width: 16px;
+  height: 16px;
+}
+.img3 {
+  width: 16.29px;
+  height: 14.57px;
+}
+ul {
+  font-size: 14px;
+  font-family: Gilroy;
+  gap: 10px;
+}
+.header__left {
+  display: flex;
+  gap: 40px;
+  margin-left: 300px;
+  margin-top: 43px;
+}
+.header__logo {
+  margin-left: 126px;
+  margin-top: 35px;
+}
+.header__right {
+  display: flex;
+  gap: 40px;
+  margin-left: 102px;
+  margin-top: 43px;
+}
+.img_1 {
+  display: flex;
+  margin-top: 8px;
+}
+.img_2 {
+  display: flex;
+  margin-top: 8px;
+}
+.img_3 {
+  display: flex;
+  margin-top: 8px;
+}
